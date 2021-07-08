@@ -5,5 +5,6 @@ Implemented on HFSS software.
 
 structure of the patch antenna ands its frequency plot (with resonant frequency of 2.4ghz).
 
-![alt text](https://github.com/WHITEWOLF619/Implantable-antenna/blob/main/frequencyplot.jpg)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/WHITEWOLF619/Implantable-antenna/blob/main/frequencyplot.jpg)
+

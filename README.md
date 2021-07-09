@@ -10,6 +10,8 @@ structure of the patch antenna ands its frequency plot (with resonant frequency 
 ![alt text](https://github.com/WHITEWOLF619/Implantable-antenna/blob/main/frequencyplot.jpg)
 
 # Contents
-presentation
-Report
-HFSS file
+presentation.
+
+Report.
+
+HFSS file.
